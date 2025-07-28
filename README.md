@@ -6,6 +6,9 @@ This project tackles the **M5 Forecasting Challenge**, a time series forecasting
 
 ---
 
+## 🔍 Why “M5”?
+The M5 Forecasting competition is the fifth in the prestigious Makridakis series of forecasting challenges. Hosted by Kaggle in collaboration with Walmart in 2020, it involves predicting 28 days of daily product-level sales across 3,000+ Walmart items using real historical, price, and calendar data.
+
 ## 🎯 Goal
 
 Build a model to predict daily product-level sales for a **28-day forecast horizon** and evaluate performance using **RMSE**.
