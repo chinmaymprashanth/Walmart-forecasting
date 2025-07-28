@@ -77,26 +77,16 @@ Key features engineered:
 
 ---
 
-### 📁 Project Structure
 
-```
-📦 m5-forecasting-lightgbm
-├── notebooks/
-│   └── 01_model_training.ipynb
-├── model/
-│   └── final_lightgbm_model.pkl
-├── output/
-│   └── forecast_lightgbm_long1.csv
-├── README.md
-└── requirements.txt
-```
 
----
+
 
 ### 📌 Note on Data
 
 ```markdown
 📦 Raw data not included due to size. You can download it directly from the [Kaggle competition page](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data).
+📝 Note: The file forecast_lightgbm_long1.csv is not included due to its size.
+You can regenerate it by running the final prediction script after placing the M5 raw data in the data/raw/ folder and loading final_lightgbm_model.pkl.
 ```
 
 
