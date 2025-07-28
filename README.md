@@ -87,9 +87,6 @@ Key features engineered:
 │   └── final_lightgbm_model.pkl
 ├── output/
 │   └── forecast_lightgbm_long1.csv
-├── data/
-│   ├── raw/       <- calendar.csv, sales_train_validation.csv, etc.
-│   └── processed/ <- transformed long format files
 ├── README.md
 └── requirements.txt
 ```
